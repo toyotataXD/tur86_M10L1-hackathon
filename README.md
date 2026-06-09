@@ -6,4 +6,4 @@
 
 > API anahtarını discord botuna entegre etmek,
 
-> Discord botunu bir ses kanalına davet edip konuşmasını sağlamak,
+> Discord botunu bir ses kanalına davet edip konuşmasını sağlamak
