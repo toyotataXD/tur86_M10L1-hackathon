@@ -88,6 +88,3 @@ async def vci(ctx, *, text=None):
 
 
 bot.run(TOKEN)
-
-
-### Hocam benim discord botum sesli bi yapay zeka botu olcaktı, botta tek bi hata var o da kodun çalışmasına engel değil ama sesli kanala katıldığında ve TTS özelliğini kullanmaya çalıştığında, bot sesinin karşı kullanıcıya gitmemesi. Bu problem çözülmezse bot sadece işlevsellik kaybeder. zaten sesli olmadan konuşmak için ayrı bi komutta yaptım. Sorunu yapay zekadan yardım alarak çözmeye çalıştım ama hiç bir türlü olmadı
